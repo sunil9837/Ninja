@@ -1,0 +1,2 @@
+annotations:
+    kubernetes.io/change-cause: "Rollout initiated by John Doe"
